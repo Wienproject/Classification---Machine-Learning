@@ -1,4 +1,4 @@
-# Classifier- Machine learning
+# Classification- Machine learning
 
 Testing & Comparing Several classification algorithm model.
 
